@@ -1,0 +1,39 @@
+.add-heading {
+  font-size: 22px;
+}
+
+.p22 {
+  font-size: 22px;
+}
+
+.p24 {
+  font-size: 24px;
+}
+
+.p18 {
+  font-size: 18px;
+}
+
+.p20 {
+  font-size: 20px;
+}
+
+.add-product {
+  padding: 20px;
+}
+
+.border-3 {
+  border-width: 3px !important;
+}
+
+.custom-table-print table tr td {
+  padding: 10px;
+}
+
+.xxx {
+  display: hidden;
+}
+
+.logo {
+  width: 30px;
+}
